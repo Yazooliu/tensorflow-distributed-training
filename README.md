@@ -1,2 +1,3 @@
 # tensorflow-distributed-training
-describe tensorflow distributed training strategy, including multiWorkerMirroredStrategy and mirroredStrategy
+It's will describe tensorflow distributed training strategy, including multiWorkerMirroredStrategy and mirroredStrategy. 
+
